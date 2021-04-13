@@ -7,14 +7,14 @@ I'm a Political Scientist and I'm passionate about Data Science 📈📊. Transf
 - [📍  Location](#-location-)
 - [🎓 Education](#-education-)
 - [📱 Contact](#-contact-)
-- [👨 Social](#-social-)
+- [👩🏽‍💼 Social](#-social-)
 - [📝 Blog](#-blog-)
 - [🚀 Skills](#-skills-)
 - [🚴‍♀️ Hobbies](#-Hobbies-)
 
-## 📍  Location [:brazil:](#welcome-badges-4-readmemd-profile)
+## 📍  Location[](#welcome-badges-4-readmemd-profile)
 
-🏠 Guarulhos - SP - BR
+[:brazil:] Guarulhos - SP
 
 ## 🎓 Education[](#welcome-badges-4-readmemd-profile)
 
@@ -33,7 +33,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | camilabezerra@usp.br
 
 
-## 👨👩 Social [👩🏽‍💼](#welcome-badges-4-readmemd-profile)
+## 👨👩🏽‍💼 Social [](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
@@ -42,7 +42,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Lattes-00468b?style=for-the-badge&logoColor=white" /> | http://lattes.cnpq.br/8682428172776389
 
 
-## 📝 Blog [👩‍💻 ](#welcome-badges-4-readmemd-profile)
+## 👩‍💻 Blog [](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
@@ -50,7 +50,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/rpubs-276DC3?style=for-the-badge&logo=rpubs&logoColor=white" /> | https://rpubs.com/bezerra_mila
 
 
-## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
+## 🚀 Skills [](#welcome-badges-4-readmemd-profile)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibezerra)](https://github.com/mibezerra/github-readme-stats&&theme=radical)
 
@@ -59,9 +59,9 @@ Badge | URL
 ![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibezerra&show_icons=true)
 
 
-## 🚴🏾‍♀️ Hobbies [✨](#welcome-badges-4-readmemd-profile)
+## ✨ Hobbies [](#welcome-badges-4-readmemd-profile)
 
-🚴 Cycling
+🚴🏾‍♀️ Cycling
 
 🍲 Cooking
 
