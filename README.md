@@ -12,7 +12,7 @@ I'm a Political Scientist and I'm passionate about Data Science :bar_chart:. Tra
 - [🚀 Skills](#-skills-)
 - [🚴‍♀️ Hobbies](#-Hobbies-)
 
-## 📍  Location (#welcome-badges-4-readmemd-profile)
+## 📍  Location [Flag: Brazil] (#welcome-badges-4-readmemd-profile)
 
 🏠 Guarulhos - SP - BR
 
