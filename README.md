@@ -55,15 +55,16 @@ Badge | URL
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibezerra)](https://github.com/mibezerra/github-readme-stats&&theme=radical)
 
 
+
+![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibezerra&show_icons=true)
+
+
 ## 🚴‍♀️ Hobbies [🥘](#welcome-badges-4-readmemd-profile)
 
 * Cycling
-* Food
+* Cooking
 * StandUp Paddle
 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibezerra&show_icons=true)
 
 
