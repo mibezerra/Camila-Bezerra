@@ -16,14 +16,14 @@ I'm a Political Scientist and I'm passionate about Data Science 📈📊. Transf
 
 🏠 Guarulhos - SP - BR
 
-## 🎓 Education [🥇](#welcome-badges-4-readmemd-profile)
+## 🎓 Education[](#welcome-badges-4-readmemd-profile)
 
  Badge   | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/USP-2CA5E0?style=for-the-badge&logoColor=white" /> | `MSc in Political Science`
 
 
-## 📱 Contact [👋🏽](#welcome-badges-4-readmemd-profile)
+## 📱 Contact[](#welcome-badges-4-readmemd-profile)
 
 
 Badge | URL
