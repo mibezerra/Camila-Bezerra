@@ -4,13 +4,14 @@ I'm a Political Scientist and I'm passionate about Data Science :bar_chart:. Tra
 
 ## Content
 
-- [🥇 Education](#-education-)
+- [🎓 Education](#-education-)
 - [📱 Contact](#-contact-)
 - [👨 Social](#-social-)
 - [📝 Blog](#-blog-)
 - [🚀 Skills](#-skills-)
+- [🚴‍♀️ Hobbies](#-Hobbies-)
 
-## 🥇 Education [🔝](#welcome-badges-4-readmemd-profile)
+## 🎓 Education [🥇](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
@@ -53,6 +54,12 @@ Badge | URL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibezerra)](https://github.com/mibezerra/github-readme-stats&&theme=radical)
 
+
+## 🚴‍♀️ Hobbies [🥘](#welcome-badges-4-readmemd-profile)
+
+* Cycling
+* Food
+* StandUp Paddle
 
 
 
