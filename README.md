@@ -1,7 +1,7 @@
 # Hi :smiley:, I am Camila
 
 ## Menu
-- [📱 Contact](#-contact-)
+- [📱 Contact]
 - [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
 - [🛒 Store](#-store-)
