@@ -27,7 +27,7 @@ Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> | `+55 11 999087671`
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> | `https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white`
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `camilabezerra@usp.br`
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | (camilabezerra@usp.br)
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -67,8 +67,12 @@ Badge | URL
 ## 🚴‍♀️ Hobbies [🥘](#welcome-badges-4-readmemd-profile)
 
 🚴 Cycling
+
 🍲 Cooking
+
 🏄 StandUp Paddle
+
+🪂 Skydive
 
 
 
