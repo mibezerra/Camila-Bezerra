@@ -20,7 +20,7 @@ I'm a Political Scientist and I'm passionate about Data Science :bar_chart:. Tra
 
  Badge   | URL
 ------------ | -------------
-<img src="https://img.shields.io/badge/USP-2CA5E0?style=for-the-badge&logoColor=white" /> | `https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white`
+<img src="https://img.shields.io/badge/USP-2CA5E0?style=for-the-badge&logoColor=white" /> | `MSc in Political Science`
 
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
