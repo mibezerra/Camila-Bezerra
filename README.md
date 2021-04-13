@@ -1,6 +1,6 @@
 # Hi :smiley:, I am Camila
 
-I'm a Political Scientist and I'm passionate about Data Science :bar_chart:. Transforming **Data** into **knowledge** is my mission.
+I'm a Political Scientist and I'm passionate about Data Science 📈📊. Transforming **Data** into **knowledge** is my mission.
 
 ## Content
 
