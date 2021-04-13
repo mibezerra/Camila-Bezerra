@@ -61,9 +61,9 @@ Badge | URL
 
 ## 🚴‍♀️ Hobbies [🥘](#welcome-badges-4-readmemd-profile)
 
-* Cycling
-* Cooking
-* StandUp Paddle
+🚴 Cycling
+🍲 Cooking
+🏄 StandUp Paddle
 
 
 
