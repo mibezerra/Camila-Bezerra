@@ -1,6 +1,6 @@
 # Hi :smiley:, I am Camila
 
-I'm a Political Scientist and I'm passionate about Data Science.
+I'm a Political Scientist and I'm passionate about Data Science. Transforming data into knowledge is my mission.
 
 ## Content
 - [📱 Contact](#-contact-)
