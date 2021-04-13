@@ -4,8 +4,8 @@
 <a href="https://github.com/mibezerra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mibezerra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/mibezerra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mibezerra&repo=convoychat" />
+<a href="https://github.com/mibezerra/Camila-Bezerra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mibezerra&repo=Camila-Bezerra" />
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibezerra&show_icons=true)
