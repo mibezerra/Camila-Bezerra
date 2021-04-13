@@ -3,17 +3,9 @@
 ## Content
 - [📱 Contact](#-contact-)
 - [👨 Social](#-social-)
-- [🛒 Store](#-store-)
-- [💻 OS](#-os-)
 - [📝 Blog](#-blog-)
-- [🎞 Streaming](#-streaming-)
 - [🚀 Skills](#-skills-)
-- [💻 Workspace Spec](#-workspace-spec-)
-- [🎮 Games](#-games-)
-- [❤ Funding](#-funding-)
-- [🎶 Sound](#-sound-)
-- [🍔🍕 Food](#-food-)
-- [✏ DIY](#-diy-)
+
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 
