@@ -46,8 +46,8 @@ Badge | URL
 
 Badge | URL
 ------------ | -------------
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> | https://rpubs.com/bezerra_mila
-<img src="https://img.shields.io/badge/rpubs-276DC3?style=for-the-badge&logo=rpubs&logoColor=white" /> | https://medium.com/camila-bezerra
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> | https://medium.com/camila-bezerra 
+<img src="https://img.shields.io/badge/rpubs-276DC3?style=for-the-badge&logo=rpubs&logoColor=white" /> | https://rpubs.com/bezerra_mila
 
 
 ## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
