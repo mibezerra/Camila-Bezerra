@@ -19,9 +19,9 @@ I'm a Political Scientist and I'm passionate about Data Science 📈📊. Transf
  Badge   | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Mestrado-2CA5E0?style=for-the-badge&logoColor=white" /> | [Women in Lower House and Electoral Quotas in Latin America](https://github.com/mibezerra/Mestrado)
-<img src="https://img.shields.io/badge/DH-2CA5E0?style=for-the-badge&logoColor=white" /> | [Movie Investment Tool](https://github.com/AndreaFilgas/DataACME)
-<img src="https://img.shields.io/badge/UFPE-8B0000?style=for-the-badge&logoColor=white" /> | `BS in Political Science`
-<img src="https://img.shields.io/badge/DIGITAL HOUSE-B22222?style=for-the-badge&logoColor=white" /> | [Data Science](https://www.digitalhouse.com/br/baixar-programa/data-science?gclid=Cj0KCQjwgtWDBhDZARIsADEKwgMJ0WP6ei7VFSF6sgKOj8N1Q0DQPRNTTY25hlEC0hzCe7bVA1u94DMaAh-vEALw_wcB)
+<img src="https://img.shields.io/badge/DIGITAL HOUSE-B22222?style=for-the-badge&logoColor=white" /> | [Movie Investment Tool](https://github.com/AndreaFilgas/DataACME)
+<img src="https://img.shields.io/badge/CODENATION-8A2BE2?style=for-the-badge&logoColor=white" /> | [ACELERADEV DATA SCIENCE](https://github.com/mibezerra/Codenation)
+<img src="https://img.shields.io/badge/ALURA-00008B?style=for-the-badge&logoColor=white" /> | [imersaodados2020.2](https://github.com/mibezerra/imersaodados2020.2)
 
 ## 📍  Location[](#welcome-badges-4-readmemd-profile)
 
