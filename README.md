@@ -21,6 +21,7 @@ I'm a Political Scientist and I'm passionate about Data Science 📈📊. Transf
  Badge   | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/USP-2CA5E0?style=for-the-badge&logoColor=white" /> | `MSc in Political Science`
+<img src="https://img.shields.io/badge/UFPE-8B0000?style=for-the-badge&logoColor=white" /> | `BS in Political Science`
 
 
 ## 📱 Contact[](#welcome-badges-4-readmemd-profile)
