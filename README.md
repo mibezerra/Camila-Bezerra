@@ -22,6 +22,7 @@ I'm a Political Scientist and I'm passionate about Data Science 📈📊. Transf
 ------------ | -------------
 <img src="https://img.shields.io/badge/USP-2CA5E0?style=for-the-badge&logoColor=white" /> | `MSc in Political Science`
 <img src="https://img.shields.io/badge/UFPE-8B0000?style=for-the-badge&logoColor=white" /> | `BS in Political Science`
+<img src="https://img.shields.io/badge/DIGITAL HOUSE-	#B22222?style=for-the-badge&logoColor=white" /> | [Data Science](https://www.digitalhouse.com/br/baixar-programa/data-science?gclid=Cj0KCQjwgtWDBhDZARIsADEKwgMJ0WP6ei7VFSF6sgKOj8N1Q0DQPRNTTY25hlEC0hzCe7bVA1u94DMaAh-vEALw_wcB)
 
 
 ## 📱 Contact[](#welcome-badges-4-readmemd-profile)
