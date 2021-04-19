@@ -4,7 +4,7 @@ I'm a Political Scientist and I'm passionate about Data Science 📈📊. Transf
 
 ## Content
 
-- [👩🏽‍💼 Projects](#-Projects-)
+- [👩🏽‍💼 Projects](#-projects-)
 - [📍  Location](#-location-)
 - [🎓 Education](#-education-)
 - [📱 Contact](#-contact-)
