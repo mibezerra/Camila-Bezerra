@@ -14,7 +14,7 @@ I'm a Political Scientist and I'm passionate about Data Science 📈📊. Transf
 - [✨ Hobbies](#-hobbies-)
 
 
-## 👩🏽‍💼 Projects[](#welcome-badges-4-readmemd-profile)
+## 👩🏽‍💼 Projects [](#welcome-badges-4-readmemd-profile)
 
  Badge   | URL
 ------------ | -------------
@@ -23,11 +23,11 @@ I'm a Political Scientist and I'm passionate about Data Science 📈📊. Transf
 <img src="https://img.shields.io/badge/CODENATION-8A2BE2?style=for-the-badge&logoColor=white" /> | [ACELERADEV DATA SCIENCE](https://github.com/mibezerra/Codenation)
 <img src="https://img.shields.io/badge/ALURA-00008B?style=for-the-badge&logoColor=white" /> | [imersaodados2020.2](https://github.com/mibezerra/imersaodados2020.2)
 
-## 📍  Location[](#welcome-badges-4-readmemd-profile)
+## 📍  Location [](#welcome-badges-4-readmemd-profile)
 
 [:brazil:] Guarulhos - SP
 
-## 🎓 Education[](#welcome-badges-4-readmemd-profile)
+## 🎓 Education [](#welcome-badges-4-readmemd-profile)
 
  Badge   | URL
 ------------ | -------------
@@ -37,7 +37,7 @@ I'm a Political Scientist and I'm passionate about Data Science 📈📊. Transf
 <img src="https://img.shields.io/badge/DIGITAL HOUSE-B22222?style=for-the-badge&logoColor=white" /> | [Data Science](https://www.digitalhouse.com/br/baixar-programa/data-science?gclid=Cj0KCQjwgtWDBhDZARIsADEKwgMJ0WP6ei7VFSF6sgKOj8N1Q0DQPRNTTY25hlEC0hzCe7bVA1u94DMaAh-vEALw_wcB)
 
 
-## 📱 Contact[](#welcome-badges-4-readmemd-profile)
+## 📱 Contact [](#welcome-badges-4-readmemd-profile)
 
 
 Badge | URL
