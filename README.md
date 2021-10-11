@@ -23,7 +23,7 @@ I'm a Political Scientist and I'm passionate about Data Science 📈📊. Transf
 <img src="https://img.shields.io/badge/CODENATION-8A2BE2?style=for-the-badge&logoColor=white" /> | [ACELERADEV DATA SCIENCE](https://github.com/mibezerra/Codenation)
 <img src="https://img.shields.io/badge/ALURA-00008B?style=for-the-badge&logoColor=white" /> | [imersaodados2020.2](https://github.com/mibezerra/imersaodados2020.2)
 
-## 📍  Location [](#welcome-badges-4-readmemd-profile)
+## 📍 Location [](#welcome-badges-4-readmemd-profile)
 
 [:brazil:] Guarulhos - SP
 
