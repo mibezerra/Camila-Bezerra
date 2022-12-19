@@ -23,9 +23,7 @@ I'm a Political Scientist and I'm passionate about Data Science 📈📊. Transf
 <img src="https://img.shields.io/badge/CODENATION-8A2BE2?style=for-the-badge&logoColor=white" /> | [ACELERADEV DATA SCIENCE](https://github.com/mibezerra/Codenation)
 <img src="https://img.shields.io/badge/ALURA-00008B?style=for-the-badge&logoColor=white" /> | [imersaodados2020.2](https://github.com/mibezerra/imersaodados2020.2)
 
-## 📍 Location [](#welcome-badges-4-readmemd-profile)
 
-[:brazil:] Guarulhos - SP
 
 ## 🎓 Education [](#welcome-badges-4-readmemd-profile)
 
@@ -40,11 +38,6 @@ I'm a Political Scientist and I'm passionate about Data Science 📈📊. Transf
 ## 📱 Contact [](#welcome-badges-4-readmemd-profile)
 
 
-Badge | URL
------------- | -------------
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> | +55 11 999087671
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> | `https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white`
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | camilabezerra@usp.br
 
 
 ## 👨👩🏽‍💼 Social [](#welcome-badges-4-readmemd-profile)
